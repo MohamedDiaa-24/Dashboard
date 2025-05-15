@@ -24,9 +24,8 @@ The sidebar includes navigation to:
 
 ## 📸 Screenshots
 
-![Dashboard Preview](./path-to-your-screenshot.png)
-
-> Replace `path-to-your-screenshot.png` with the actual path if you're adding the screenshot to the repo.
+![Image](https://github.com/user-attachments/assets/6498bff9-ba34-4782-a52a-b8104b855b6f)
+![Image](https://github.com/user-attachments/assets/c53e0f57-f55b-4ca1-921e-f40dff2a9b64)
 
 ## 🛠 Technologies Used
 
